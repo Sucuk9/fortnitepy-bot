@@ -10,7 +10,7 @@ IF EXIST "python-3.6.0-amd64.exe" (
 
 cls
 @echo on
-py fortnite.py
+py Sucuk.py
 cmd /k
 
 :: Once done, exit the batch file -- skips executing the errorNoPython section
