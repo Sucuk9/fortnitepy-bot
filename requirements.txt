@@ -1,6 +1,3 @@
-fortnitepy
-BenBotAsync
+fortniteBenBotAsync
 crayons
-pypresence
-psutil
-FortniteAPIAsync
+pypre
